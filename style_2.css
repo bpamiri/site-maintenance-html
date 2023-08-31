@@ -37,7 +37,7 @@ STYLES FOR ILLUSTRATION ELEMENTS
 	vertical-align:middle;
 }
 #gears-static{
-	background:url(gears_2.png) no-repeat -363px -903px;
+	background:url(https://cdn.statically.io/gh/bpamiri/site-maintenance-html/v1.0.0/gears_2.png) no-repeat -363px -903px;
 	width:329px;
 	height:602px;
 	position:absolute;
