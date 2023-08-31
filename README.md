@@ -14,7 +14,7 @@ With all the pieces put together I now have some simple static HTML that can be 
 
 ### Hosting the HTML file
 
-If your environment lets you host the HTML file simply copy the index.html file from this repository and place it in the appropriate directory on your environmet. Rename the file accordingly to match your environments needs.
+If your environment lets you host the HTML file, simply copy the index.html file from this repository and place it in the appropriate directory on your environmet. Rename the file accordingly to match your environment's needs.
 
 ### Using just the HTML content
 
